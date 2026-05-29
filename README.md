@@ -5,7 +5,7 @@ Codex provider configuration manager.
 ## Run
 
 ```bash
-curl -fsSL https://github.com/kangshifu2022/mycodex/raw/main/mycodex.sh | bash
+bash <(curl -fL https://github.com/kangshifu2022/mycodex/raw/main/mycodex.sh)
 ```
 
 Or download it first:
