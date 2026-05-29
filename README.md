@@ -5,13 +5,13 @@ Codex provider configuration manager.
 ## Run
 
 ```bash
-curl -fsSL https://github.com/kangshifu2022/mycodexv4/raw/main/mycodex.sh | bash
+curl -fsSL https://github.com/kangshifu2022/mycodex/raw/main/mycodex.sh | bash
 ```
 
 Or download it first:
 
 ```bash
-curl -fsSLO https://github.com/kangshifu2022/mycodexv4/raw/main/mycodex.sh
+curl -fsSLO https://github.com/kangshifu2022/mycodex/raw/main/mycodex.sh
 chmod +x mycodex.sh
 ./mycodex.sh
 ```
